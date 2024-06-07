@@ -21,7 +21,6 @@ This Power BI project aims to help a company address challenges in understanding
 - *Dynamic Filtering*: Implementation of multiple slicers for interactive filtering, allowing users to dynamically analyze data by:
   - EnductionField
   - Department
-  - Employee Full Name
   - Job Role
 
 ## Benefits
